@@ -21,7 +21,7 @@
   --alert-opacity: 1;
   --alert-action-color: #fff;
   --alert-text-color: #fff;
-  --message-color: rgba(0,0,0,0.4);
+  --message-color: rgba(0,0,0,0.24);
   --message-color-hover: rgba(0,0,0,0.55);
   --message-radius: var(--app-radius);
   --message-padding-top: 8px;
